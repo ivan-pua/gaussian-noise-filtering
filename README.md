@@ -9,7 +9,7 @@ An example is shown below:
 
 
 ### Noise Addition
-![](https://github.com/puaqieshang/gaussian-noise-filtering/blob/master/withNoise.jpeg)
+![](https://github.com/puaqieshang/gaussian-noise-filtering/blob/master/withNoise.jpg)
 *Introducing noise in the image*
 
 Image noise manifests itself as random variations in the brightness or color of pixels in an image, or speckles that are similar to film grain on analogue cameras. If image noise is significant enough, it can potentially interfere with a computer vision system’s functionality, such as the edge-detection algorithm for lane detection in a self-driving car. 
