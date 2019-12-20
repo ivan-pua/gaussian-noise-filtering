@@ -1,5 +1,10 @@
-# ultrasound-imaging
+# Gaussian Blurring or Smoothing
 
-**Aim**: Performs image processing of the ultrasound scans of the spinal cord, which allows a 3D Model of the spinal cord to be simulated
+Here we will discuss image noise, how to add it to an image, and how to minimize noise with Gaussian blurring using OpenCV.
 
-**Applications**: Spinal Cord/Lower Back Injections
+An example is shown below:
+! [Original Image]
+(https://github.com/puaqieshang/gaussian-noise-filtering/blob/master/insta.jpeg)
+
+## Noise Addition
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
