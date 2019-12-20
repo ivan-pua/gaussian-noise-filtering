@@ -1,4 +1,4 @@
-# Gaussian Blurring or Smoothing
+# Gaussian Blurring or Smoothing using OpenCV
 
 Here we will discuss image noise, how to add it to an image, and how to minimize noise with Gaussian blurring using OpenCV.
 
@@ -9,7 +9,7 @@ An example is shown below:
 
 
 ### Noise Addition
-![](https://github.com/puaqieshang/gaussian-noise-filtering/blob/master/withNoise.png)
+![](https://github.com/puaqieshang/gaussian-noise-filtering/blob/master/withNoise.jpeg)
 *Introducing noise in the image*
 
 Image noise manifests itself as random variations in the brightness or color of pixels in an image, or speckles that are similar to film grain on analogue cameras. If image noise is significant enough, it can potentially interfere with a computer vision system’s functionality, such as the edge-detection algorithm for lane detection in a self-driving car. 
